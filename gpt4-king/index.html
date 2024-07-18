@@ -10,13 +10,17 @@
 <meta property="article:modified_time" content="2024-03-08T14:30:00.000Z">
 <meta property="article:author" content="星空夜想">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://blogsorachatgpt.oss-cn-shanghai.aliyuncs.com/gpt4-king/gpt4-king11.png"><link rel="shortcut icon" href="https://blogsorachatgpt.oss-cn-shanghai.aliyuncs.com/gpt4-king/avatar.png"><link rel="canonical" href="https://sorachatgpt.github.io/gpt4-king/index.html"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//hm.baidu.com"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="stylesheet" href="/css/index.css?v=4.13.0"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/node-snackbar@0.1.16/dist/snackbar.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0.33/dist/fancybox/fancybox.min.css" media="print" onload="this.media='all'"><script>var _hmt = _hmt || [];
+<meta name="twitter:image" content="https://blogsorachatgpt.oss-cn-shanghai.aliyuncs.com/gpt4-king/gpt4-king11.png"><link rel="shortcut icon" href="https://blogsorachatgpt.oss-cn-shanghai.aliyuncs.com/gpt4-king/avatar.png"><link rel="canonical" href="https://sorachatgpt.github.io/gpt4-king/index.html"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//www.google-analytics.com" crossorigin=""/><link rel="preconnect" href="//hm.baidu.com"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="stylesheet" href="/css/index.css?v=4.13.0"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/node-snackbar@0.1.16/dist/snackbar.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0.33/dist/fancybox/fancybox.min.css" media="print" onload="this.media='all'"><script>var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
   hm.src = "https://hm.baidu.com/hm.js?[object Object]";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
+</script><script async="async" src="https://www.googletagmanager.com/gtag/js?id=[object Object]"></script><script>window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '[object Object]');
 </script><script>const GLOBAL_CONFIG = {
   root: '/',
   algolia: undefined,
@@ -224,7 +228,7 @@ var pjax = new Pjax({
   elements: 'a:not([target="_blank"])',
   selectors: pjaxSelectors,
   cacheBust: false,
-  analytics: false,
+  analytics: true,
   scrollRestoration: false
 })
 
@@ -269,7 +273,7 @@ document.addEventListener('pjax:complete', function () {
   typeof panguInit === 'function' && panguInit()
 
   // google analytics
-  typeof gtag === 'function' && gtag('config', '', {'page_path': window.location.pathname});
+  typeof gtag === 'function' && gtag('config', '[object Object]', {'page_path': window.location.pathname});
 
   // baidu analytics
   typeof _hmt === 'object' && _hmt.push(['_trackPageview',window.location.pathname]);
