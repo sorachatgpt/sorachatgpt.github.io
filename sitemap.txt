@@ -22,8 +22,8 @@ https://sorachatgpt.github.io/tags/index.html
 https://sorachatgpt.github.io/
 https://sorachatgpt.github.io/categories/Fantia/
 https://sorachatgpt.github.io/categories/ChatGPT/
-https://sorachatgpt.github.io/categories/fanbox/
 https://sorachatgpt.github.io/categories/WildCard/
+https://sorachatgpt.github.io/categories/fanbox/
 https://sorachatgpt.github.io/categories/midjourney/
 https://sorachatgpt.github.io/categories/Nvidia/
 https://sorachatgpt.github.io/categories/Sora/
