@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sorachatgpt.github.io/the-model-cursor-small-does-not-work-with-your-current-plan-orapi-key/</loc>
+    
+    <lastmod>2025-02-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sorachatgpt.github.io/gpt-upgrade-four/</loc>
     
     <lastmod>2025-01-23</lastmod>
@@ -193,7 +202,7 @@
 
   <url>
     <loc>https://sorachatgpt.github.io/</loc>
-    <lastmod>2025-01-23</lastmod>
+    <lastmod>2025-02-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -203,49 +212,56 @@
   
   <url>
     <loc>https://sorachatgpt.github.io/categories/Fantia/</loc>
-    <lastmod>2025-01-23</lastmod>
+    <lastmod>2025-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sorachatgpt.github.io/categories/ChatGPT/</loc>
-    <lastmod>2025-01-23</lastmod>
+    <lastmod>2025-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sorachatgpt.github.io/categories/fanbox/</loc>
-    <lastmod>2025-01-23</lastmod>
+    <lastmod>2025-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sorachatgpt.github.io/categories/WildCard/</loc>
-    <lastmod>2025-01-23</lastmod>
+    <lastmod>2025-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sorachatgpt.github.io/categories/midjourney/</loc>
-    <lastmod>2025-01-23</lastmod>
+    <lastmod>2025-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sorachatgpt.github.io/categories/Nvidia/</loc>
-    <lastmod>2025-01-23</lastmod>
+    <lastmod>2025-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sorachatgpt.github.io/categories/Sora/</loc>
-    <lastmod>2025-01-23</lastmod>
+    <lastmod>2025-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sorachatgpt.github.io/categories/cursor/</loc>
+    <lastmod>2025-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

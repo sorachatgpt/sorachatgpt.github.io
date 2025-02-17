@@ -1,3 +1,4 @@
+https://sorachatgpt.github.io/the-model-cursor-small-does-not-work-with-your-current-plan-orapi-key/
 https://sorachatgpt.github.io/gpt-upgrade-four/
 https://sorachatgpt.github.io/how-to-subscribe-fanbox/
 https://sorachatgpt.github.io/Fantia-register/
@@ -27,3 +28,4 @@ https://sorachatgpt.github.io/categories/WildCard/
 https://sorachatgpt.github.io/categories/midjourney/
 https://sorachatgpt.github.io/categories/Nvidia/
 https://sorachatgpt.github.io/categories/Sora/
+https://sorachatgpt.github.io/categories/cursor/
